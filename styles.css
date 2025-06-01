@@ -64,7 +64,7 @@ nav {
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    background-image: url(../2/img/poster.jpg);
+    background-image: url(../img/poster.jpg);
     background-size: cover;
     flex-shrink: 0;
 }
